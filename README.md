@@ -1,1 +1,2 @@
 # LeetCode
+# C and JavaScript
